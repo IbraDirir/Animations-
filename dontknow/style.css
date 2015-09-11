@@ -1,3 +1,19 @@
-.traingle { float:left;}
+h2 {background-color: grey;}
+.shapes{background-color: black;
+    display: block;
+}
+
+.square{background-color: blue;
+display: inline-block;
+
+
+}
+.forthesquare {
+    height: 100px;
+    width:100px;
+    background-color: white;
+
+}
+
 
 
