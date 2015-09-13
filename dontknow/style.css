@@ -54,16 +54,21 @@ border-bottom: 150px solid red;
     display: block;}
 
 
-.circle1{  background-color: white;
-    border-radius: 50%;
-    height: 150px;
-    width: 150px;
-display: inline-block}
-.circle1 , h2 { position-relative:left = 20px;
-}
+.circle1{background-color: red;
+    border-radius: 68%;
+    height: 200px;
+    width: 200px;
+display: inline-block;}
 
-.circle2{background-color:white;
+.circle2{background-color: red;
+    border-radius: 68%;
+    height: 200px;
+    width: 200px;
 display: inline-block; }
 
-.circle3{background-color: white;
-display:inline-block;}
+
+.circle3{background-color: red;
+    border-radius: 68%;
+    height: 200px;
+    width: 200px;
+display: inline-block; }
