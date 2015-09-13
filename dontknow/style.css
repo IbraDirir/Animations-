@@ -26,9 +26,10 @@ width:200px;
 
 
 
-.Circle {background-color: red;
-        display: inline-block;
+.circle{ background-color: red;
+    display:inline-block;
 }
+
 .forthecircle{
     background-color: white;
     border-radius: 50%;
@@ -49,3 +50,20 @@ border-bottom: 150px solid red;
 }
 
 
+.container{background-color: grey;
+    display: block;}
+
+
+.circle1{  background-color: white;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+display: inline-block}
+.circle1 , h2 { position-relative:left = 20px;
+}
+
+.circle2{background-color:white;
+display: inline-block; }
+
+.circle3{background-color: white;
+display:inline-block;}
